@@ -38,18 +38,25 @@
 
     ![dynamic deposit flaw](/resources/dyn-deposit-flaw.png)
 
+      - The time-dependent deposit increase actually incentivizes submitting proposals quickly rather than spacing them out. When deposits start increasing because `n_t` (the number of active proposals) exceeds the target `N`, rational actors would submit proposals as soon as possible before costs rise further
+      - A sophisticated spammer could strategically time their attacks by bundling multiple proposals when deposits are low, then submitting them all at once. This would dramatically increase costs for legitimate users afterward but with no effect to the spammer which would only see cost between his submissions increase due to `n_t` changing (since they are bundled together roughly at the same time, or close in time)
+      - The time-dependent increase mechanism disproportionately affects honest users who aren’t gaming the system, as they’re more likely to encounter elevated deposit requirements after spam attacks, because they aren’t timing their proposals wrt to network conditions, but more likely based on governance needs
+
     </details>
   * <details>
      <summary>Current vs new model</summary>
 
      ![dynamic deposit diagrams](/resources/dyn-deposit-cmp.png)
 
+     - activation only increases, and time-based only decreases
     </details>
   * https://atomone-hub.github.io/govbox/depositv2.html
+  * New proposal and updates to documentation and ADR coming: [PR](https://github.com/atomone-hub/atomone/pull/105)
 
 ### Roadmap & Ongoing Engineering
 
-* EIP-1559-like dynamic gas pricing \[[dev branch](https://github.com/atomone-hub/atomone/tree/feat/x/feemarket)\]  
+* EIP-1559-like dynamic gas pricing \[[dev branch](https://github.com/atomone-hub/atomone/tree/feat/x/feemarket)\]
+  * same module as Cosmos Hub now uses, removed proposer tip but [Additive Increase Multiplicative Decrease (AIMD)](https://github.com/atomone-hub/atomone/blob/feat/x/feemarket/x/feemarket/AIMD.md) implementation is indeed better than classical EIP-1559.
   * https://atomone-hub.github.io/govbox/feemarket.html
 * Dynamic quorum: \[[dev branch](https://github.com/atomone-hub/atomone/tree/giunatale/gov/dynamic-quorum)\]  
   * Based on Tezos’s [dynamic quorum](https://octez.tezos.com/docs/active/voting.html#super-majority-and-quorum)  
