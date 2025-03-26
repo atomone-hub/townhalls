@@ -61,6 +61,8 @@
 
 ### AIB ATONE Delegation Program
 
+### AiB ATONE Delegation Program \- Valeh 
+
 * Details of [the AiB ATONE Delegation Program (Cycle I)](https://github.com/allinbits/AiB-ATONE-Delegation-Program)   
 * Program Details: Application period: (January 8 \- Feb 4th)  
 * Program Requirements:  
@@ -70,6 +72,23 @@
 * Delegation Assessment and leveling criteria:   
   * Evaluation of contributions over the past month  
   * Ensuring a fair and transparent allocation of delegated tokens.  
+  * Categorization into four levels based on past and future commitments:  
+    * **Level 1 – Highly Engaged Contributors:**   
+      * Provided technical contributions, integration tools, or services. Actively engaged in project development from inception.  
+      * Participated in **Constitution workshops, GovGen working groups, and AtomOne Townhalls**.  
+    * **Level 2 – Technical Contributors**  
+      * Provided valid technical contributions.  
+      * Did not previously participate in AtomOne or GovGen working groups.  
+    * **Level 3 – Potential Future Contributors**  
+      * Limited past contributions  
+      * Plans for future contributions  
+      * Provided concrete plans for future engagement in network growth.  
+    * **Level 4 – Minimal Contribution**  
+      * The validator has recently joined the AtomOne Community.  
+      * No solid evidence of past contributions.  
+      * No clear roadmap for future involvement beyond node operations.  
+* ATONE Delegation Program (Cycle II) \> Application opens in August 2025  
+* Ongoing evaluation of contributions and adherence to commitments throughout the next six months 
 
 ### DAO Structures and Laws
 
