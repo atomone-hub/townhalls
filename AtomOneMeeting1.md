@@ -88,7 +88,7 @@
     * AtomOne version: Differential audit for changes since previous audit (Zellic)
   * AtomOne daemon: Comprehensive Audit including proposed x/photon module and draft of dynamic deposit throttler (Zellic)
 * [https://github.com/allinbits/security](https://github.com/allinbits/security)
-
+* Launched Photon Community Bounty program: https://github.com/allinbits/grants/tree/main/Photon-Community-Bounty 
 
 ### Chain activity stats, validators, network information
 
