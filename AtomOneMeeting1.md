@@ -16,14 +16,14 @@
 
 ##  Proposed Discussion Points:
 
-### Since Launch -
+### Since Launch
 
 * AtomOne chain has been live for 5 months and is steadily evolving\!  
 * Airdropped to 1,128,299 Cosmos Hub (ATOM) addresses, accounts, with total ATONE genesis supply of 107,775,332 token  
 * 5,388,766 ATONE were allocated to the Community Pool and 5,388,766 ATONE were allocated to a reserved address for the future funding of the AtomOne Treasury DAO  
 * In the last 5 months, we’ve had an average of almost a 1,000 daily active accounts, and over 14x monthly users, just under a 117m circulating supply
 
-### Cover proposals 1,2,3,4 - 
+### Cover proposals 1,2,3,4
 
 * [Proposal 1](https://gov.atom.one/proposals/1) \- Enable IBC  
 * [Proposal 2](https://gov.atom.one/proposals/2) \- Rectify Constitution  
@@ -59,9 +59,7 @@
 
 * First community [newsletter](https://atom.one/#newsletter) releasing soon, sign up so you don’t miss the latest updates\!
 
-### AIB ATONE Delegation Program
-
-### AiB ATONE Delegation Program \- Valeh 
+### AiB ATONE Delegation Program 
 
 * Details of [the AiB ATONE Delegation Program (Cycle I)](https://github.com/allinbits/AiB-ATONE-Delegation-Program)   
 * Program Details: Application period: (January 8 \- Feb 4th)  
@@ -121,11 +119,9 @@
 
 ###
 
-### TODO:
+The Nakamoto Coefficient was 4 three months ago, we are now at 7.
 
-NAKAMOTO
-
-### Staking.atom.one & gov.atom.one, support for integration of mintscan, etc, Keplr, Leap \- Alex 
+### Staking.atom.one & gov.atom.one
 
 * [Staking Platform](https://staking.atom.one/)  
   * A one-stop dApp for staking ATONE and claiming rewards.	  
@@ -140,8 +136,11 @@ NAKAMOTO
   * We’ve also been working behind the scenes on making performance improvements to the indexer and stabilizing it for public release at some point in the near future.  
 * Both platforms have been added to the major dApps section of AtomOne on mintscan and support all major wallets (Keplr, Leap, Cosmostation)
 
+
 ### Docs
 
-* A few members of the community were asking if we were going to launch documentation for AtomOne, and we can safely say we’re launching it.  
+* A few members of the community were asking if we were going to launch documentation for AtomOne, and we can safely say we’vere launcheding it.  
 * We’ve already put in the effort to aggregate documentation from the cosmos-sdk modules, and our own modules to create an open source documentation that anyone can contribute to.  
-* Head on over to [https://github.com/atomone-hub/atomone-docs](https://github.com/atomone-hub/atomone-docs) if you want to contribute documentation, tutorials, or learn more about AtomOne.
+* Head on over to [https://github.com/atomone-hub/atomone-docs](https://github.com/atomone-hub/atomone-docs) if you want to contribute documentation, tutorials, or learn more about AtomOne.  
+* Introducing [https://docs.atom.one/](https://docs.atom.one/)
+
