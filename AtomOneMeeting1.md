@@ -34,10 +34,23 @@
 
 * [Proposal 5](https://gov.atom.one/proposals/5) \- Signaling Photon Implementation  
 * [Proposal 6](https://gov.atom.one/proposals/6) \- Signaling Dynamic Deposit mechanism
+  * <details><summary>Current model flaw</summary>
+
+    ![dynamic deposit flaw](/resources/dyn-deposit-flaw.png)
+
+    </details>
+  * <details>
+     <summary>Current vs new model</summary>
+
+     ![dynamic deposit diagrams](/resources/dyn-deposit-cmp.png)
+
+    </details>
+  * https://atomone-hub.github.io/govbox/depositv2.html
 
 ### Roadmap & Ongoing Engineering
 
-* * EIP-1559-like dynamic gas pricing \[[dev branch](https://github.com/atomone-hub/atomone/tree/feat/x/feemarket)\]  
+* EIP-1559-like dynamic gas pricing \[[dev branch](https://github.com/atomone-hub/atomone/tree/feat/x/feemarket)\]  
+  * https://atomone-hub.github.io/govbox/feemarket.html
 * Dynamic quorum: \[[dev branch](https://github.com/atomone-hub/atomone/tree/giunatale/gov/dynamic-quorum)\]  
   * Based on Tezos’s [dynamic quorum](https://octez.tezos.com/docs/active/voting.html#super-majority-and-quorum)  
 * Governors \[[PR](https://github.com/atomone-hub/atomone/pull/73)\]  
