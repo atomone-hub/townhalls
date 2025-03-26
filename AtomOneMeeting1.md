@@ -36,7 +36,7 @@
 * [Proposal 6](https://gov.atom.one/proposals/6) \- Signaling Dynamic Deposit mechanism
   * <details><summary>Current model flaw</summary>
 
-    ![dynamic deposit flaw](/resources/dyn-deposit-flaw.png)
+    ![dynamic deposit flaw](/resources/townhall-01/dyn-deposit-flaw.png)
 
       - The time-dependent deposit increase actually incentivizes submitting proposals quickly rather than spacing them out. When deposits start increasing because `n_t` (the number of active proposals) exceeds the target `N`, rational actors would submit proposals as soon as possible before costs rise further
       - A sophisticated spammer could strategically time their attacks by bundling multiple proposals when deposits are low, then submitting them all at once. This would dramatically increase costs for legitimate users afterward but with no effect to the spammer which would only see cost between his submissions increase due to `n_t` changing (since they are bundled together roughly at the same time, or close in time)
@@ -46,7 +46,7 @@
   * <details>
      <summary>Current vs new model</summary>
 
-     ![dynamic deposit diagrams](/resources/dyn-deposit-cmp.png)
+     ![dynamic deposit diagrams](/resources/townhall-01/dyn-deposit-cmp.png)
 
      - activation only increases, and time-based only decreases
     </details>
@@ -133,11 +133,13 @@
 
 ## Transactions since genesis
 
-
+![Evolution of transactions since genesis](/resources/townhall-01/txs-since-genesis-1.png)
 
 ### Daily transactions
 
-###
+![Evolution of daily transactions since genesis](/resources/townhall-01/txs-since-genesis-2.png)
+
+### Nakamoto evolution
 
 The Nakamoto Coefficient was 4 three months ago, we are now at 7.
 
