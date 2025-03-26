@@ -81,11 +81,12 @@
 
 ### Security, Audits and where people can find them
 
-* Products built by AiB engineering and their audit status:  
-  * Staking dApp: Comprehensive audit  
+* Products contributed to by AiB engineering and their audit status:  
+  * Staking dApp: Comprehensive audit (Zellic)  
   * Governance dApp  
-    * Initial (GovGen) implementation : Comprehensive Audit  
-    * AtomOne version: Differential audit for changes since previous audit.  
+    * Initial (GovGen) implementation : Comprehensive Audit  (Zellic)
+    * AtomOne version: Differential audit for changes since previous audit (Zellic)
+  * AtomOne daemon: Comprehensive Audit including proposed x/photon module and draft of dynamic deposit throttler (Zellic)
 * [https://github.com/allinbits/security](https://github.com/allinbits/security)
 
 
