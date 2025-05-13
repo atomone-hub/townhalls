@@ -16,26 +16,41 @@
 * 
 
 ## Proposed Discussion Points:
-* 
-### Cover AtomOne Upgrade v2 proposal
-* 
+
+### AtomOne Upgrade v2 proposal
+* End of voting period: May 22th
+* Halt-height is expected to be reached on May 28th.
+
 ### Roadmap & Ongoing Engineering
-* 
-### Launch of website, atom.one
-* 
+* Govgen sunset
+* Signaling proposal for the new dynamic deposit
+* V3 roadmap (audit under negociation)
+* Dynamic fee system (feemarket module)
+* Dynamic deposit
+* Dynamic quorum
+* Burn deposit if no votes > threshold
+* Nakamoto bonus
+
+### Design
+* AiB has a logo concept for the Photon token! You can find it on the [AtomOne Hub repo](https://github.com/atomone-hub/assets/blob/main/logos/PNG/photon-token-round.png) 
 ### Socials
 
 * Review and provide feedback on upcoming proposals on [Commonwealth](https://common.xyz/atomone)  
 * Discuss with the community on [Discord](http://discord.gg/atomone)   
 * Retweet/Repost on [X](http://x.com/_atomone)
 
-### Newsletter
-* 
 ### Chain activity stats, validators, network information
 
 * [https://www.mintscan.io/atomone/validators/](https://www.mintscan.io/atomone/validators/)
 
 ### Staking.atom.one & gov.atom.one
-* 
+* AtomOne Staking dApp v2 is a work in progress. At this stage we have a design for the new user interface that should cover most of the community’s requests along with some of our own ideas.
+Docs
+
 ### Docs
-* 
+* Documentation was updated to reflect the new AtomOne release versions.
+* Re-organized some pages for better readability and navigation.
+* 2 New Pages
+  * [Services](https://docs.atom.one/validators/services.html) provides an overview of available validators and their security contacts.
+  * [Registry](https://docs.atom.one/validators/registry.html) provides a list of RPC endpoints available to the public.
+
