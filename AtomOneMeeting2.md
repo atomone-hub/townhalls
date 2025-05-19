@@ -22,12 +22,17 @@
 * Halt-height is expected to be reached on May 28th.
 
 ### Roadmap & Ongoing Engineering
+* V2 upgrade
+  * Voting period end: May 22nd
+  * Upgrade: May 28th (upgrade height: https://www.mintscan.io/atomone/block/3318000)
 * Govgen sunset
+  * https://app.govgen.io/proposals/10
 * Signaling proposal for the new dynamic deposit
+  * https://www.mintscan.io/atomone/proposals/9
 * V3 roadmap (audit under negociation)
-* Dynamic fee system (feemarket module)
-* Dynamic deposit
-* Dynamic quorum
+  * Dynamic fee system (feemarket module)
+  * Dynamic deposit
+  * Dynamic quorum
 * Burn deposit if no votes > threshold
 * Nakamoto bonus
 
