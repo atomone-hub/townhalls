@@ -45,8 +45,14 @@
 
 ### Staking.atom.one & gov.atom.one
 * AtomOne Staking dApp v2 is a work in progress. At this stage we have a design for the new user interface that should cover most of the community’s requests along with some of our own ideas.
-Docs
 
+### Newsletter
+
+* The first AiB AtomOne newsletter released last week. Sign up now for progress updates in the next [newsletter](https://atom.one/#newsletter)
+
+### Keplr Integration
+* ATONE has officially been [integrated in Keplr wallet](https://x.com/keplrwallet/status/1922978693065974206)
+  
 ### Docs
 * Documentation was updated to reflect the new AtomOne release versions.
 * Re-organized some pages for better readability and navigation.
