@@ -53,7 +53,7 @@
 
 ### Nakamoto evolution
 
-The Nakamoto Coefficient was evolve 7 to 8.
+The Nakamoto Coefficient evolved from 7 to 8.
 
 
 ### Staking.atom.one & gov.atom.one
