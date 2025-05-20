@@ -82,6 +82,10 @@ The Nakamoto Coefficient is 5.
 * Discuss with the community on [Discord](http://discord.gg/atomone)   
 * Retweet/Repost on [X](http://x.com/_atomone)
 
+### Grants
+
+* Review and provide feedback on grant proposal. Join the discussion and share your thoughts. [📝 Grants Request on Commonwealth](https://common.xyz/atomone/discussion/1259471-grant-proposal-atomoneist-fullfeature-explorer-for-atomone-mainnet-testnet)
+
 ### Newsletter
 
 * The first AiB AtomOne newsletter released last week. Sign up now for progress updates in the next [newsletter](https://atom.one/#newsletter)
