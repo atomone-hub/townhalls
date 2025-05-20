@@ -22,14 +22,30 @@
 * Halt-height is expected to be reached on May 28th.
 
 ### Roadmap & Ongoing Engineering
-* Govgen sunset
+* V2 upgrade
+  * https://www.mintscan.io/atomone/proposals/8
+  * Introduction of the PHOTON token
+  * Voting period end: May 22nd
+  * Upgrade: May 28th (upgrade height: https://www.mintscan.io/atomone/block/3318000)
+  * [Upgrading instructions](https://github.com/atomone-hub/atomone/blob/main/UPGRADING.md)
+    * Validators will have to change their `gas-prices` setting.
 * Signaling proposal for the new dynamic deposit
-* V3 roadmap (audit under negociation)
-* Dynamic fee system (feemarket module)
-* Dynamic deposit
-* Dynamic quorum
-* Burn deposit if no votes > threshold
+  * https://www.mintscan.io/atomone/proposals/9
+* Tentative V3 roadmap (audit under negotiation)
+  * Dynamic fee system (feemarket module)
+    * https://github.com/atomone-hub/atomone/pull/114
+  * Dynamic deposit
+    * https://github.com/atomone-hub/atomone/pull/105
+  * Dynamic quorum
+    * https://github.com/atomone-hub/atomone/pull/135
+  * Burn deposit if no votes > threshold
+    * https://github.com/atomone-hub/atomone/pull/90
+    * Threshold: 80%
 * Nakamoto bonus
+  * https://docs.google.com/presentation/d/1G7bUJ_pJ7Ee3GYEvAtLZY1Z6Sf6YRp8E5cjbdgs8ryY/edit?usp=sharing
+* Govgen Sunset proposal
+  * https://app.govgen.io/proposals/10
+  * Scheduled for May 30th (halt height: 6900000)
 
 ### Design
 * AiB has a logo concept for the Photon token! You can find it on the [AtomOne Hub repo](https://github.com/atomone-hub/assets/blob/main/logos/PNG/photon-token-round.png) 
