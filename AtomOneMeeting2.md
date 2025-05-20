@@ -43,6 +43,19 @@
 
 * [https://www.mintscan.io/atomone/validators/](https://www.mintscan.io/atomone/validators/)
 
+## Noted transactions (last 90 days)
+
+![Evolution of transactions](/resources/townhall-02/txs.png)
+
+## Protocol fees (since genesis)
+
+![Protocol fees](/resources/townhall-02/protocol-fees.png)
+
+### Nakamoto evolution
+
+The Nakamoto Coefficient is 5.
+
+
 ### Staking.atom.one & gov.atom.one
 * AtomOne Staking dApp v2 is a work in progress. At this stage we have a design for the new user interface that should cover most of the community’s requests along with some of our own ideas.
 

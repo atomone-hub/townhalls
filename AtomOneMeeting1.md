@@ -155,7 +155,7 @@ Attendee noted full validator set reached (100 max), open slots remain in lower-
 
 ### Nakamoto evolution
 
-The Nakamoto Coefficient was 4 three months ago, we are now at 7.
+The Nakamoto Coefficient was 3 three months ago, we are now at 4.
 
 ### Details on the staking.atom.one & gov.atom.one dApps
 
