@@ -47,14 +47,6 @@
   * https://app.govgen.io/proposals/10
   * Scheduled for May 30th (halt height: 6900000)
 
-### Design
-* AiB has a logo concept for the Photon token! You can find it on the [AtomOne Hub repo](https://github.com/atomone-hub/assets/blob/main/logos/PNG/photon-token-round.png) 
-### Socials
-
-* Review and provide feedback on upcoming proposals on [Commonwealth](https://common.xyz/atomone)  
-* Discuss with the community on [Discord](http://discord.gg/atomone)   
-* Retweet/Repost on [X](http://x.com/_atomone)
-
 ### Chain activity stats, validators, network information
 
 * [https://www.mintscan.io/atomone/validators/](https://www.mintscan.io/atomone/validators/)
@@ -71,17 +63,6 @@
 
 The Nakamoto Coefficient is 5.
 
-
-### Staking.atom.one & gov.atom.one
-* AtomOne Staking dApp v2 is a work in progress. At this stage we have a design for the new user interface that should cover most of the community’s requests along with some of our own ideas.
-
-### Newsletter
-
-* The first AiB AtomOne newsletter released last week. Sign up now for progress updates in the next [newsletter](https://atom.one/#newsletter)
-
-### Keplr Integration
-* ATONE has officially been [integrated in Keplr wallet](https://x.com/keplrwallet/status/1922978693065974206)
-  
 ### Docs
 * Documentation was updated to reflect the new AtomOne release versions.
 * Re-organized some pages for better readability and navigation.
@@ -89,3 +70,21 @@ The Nakamoto Coefficient is 5.
   * [Services](https://docs.atom.one/validators/services.html) provides an overview of available validators and their security contacts.
   * [Registry](https://docs.atom.one/validators/registry.html) provides a list of RPC endpoints available to the public.
 
+### Staking.atom.one & gov.atom.one
+* AtomOne Staking dApp v2 is a work in progress. At this stage we have a design for the new user interface that should cover most of the community’s requests along with some of our own ideas.
+
+### Design
+* AiB has a logo concept for the Photon token! You can find it on the [AtomOne Hub repo](https://github.com/atomone-hub/assets/blob/main/logos/PNG/photon-token-round.png) 
+
+### Socials
+
+* Review and provide feedback on upcoming proposals on [Commonwealth](https://common.xyz/atomone)  
+* Discuss with the community on [Discord](http://discord.gg/atomone)   
+* Retweet/Repost on [X](http://x.com/_atomone)
+
+### Newsletter
+
+* The first AiB AtomOne newsletter released last week. Sign up now for progress updates in the next [newsletter](https://atom.one/#newsletter)
+
+### Keplr Integration
+* ATONE has officially been [integrated in Keplr wallet](https://x.com/keplrwallet/status/1922978693065974206)
