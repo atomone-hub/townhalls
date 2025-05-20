@@ -41,11 +41,11 @@
   * Burn deposit if no votes > threshold
     * https://github.com/atomone-hub/atomone/pull/90
     * Threshold: 80%
-* Nakamoto bonus
-  * https://docs.google.com/presentation/d/1G7bUJ_pJ7Ee3GYEvAtLZY1Z6Sf6YRp8E5cjbdgs8ryY/edit?usp=sharing
 * Govgen Sunset proposal
   * https://app.govgen.io/proposals/10
   * Scheduled for May 30th (halt height: 6900000)
+* Nakamoto bonus
+  * https://docs.google.com/presentation/d/1G7bUJ_pJ7Ee3GYEvAtLZY1Z6Sf6YRp8E5cjbdgs8ryY/edit?usp=sharing
 
 ### Chain activity stats, validators, network information
 
