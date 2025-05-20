@@ -33,7 +33,7 @@
   * Dynamic fee system (feemarket module)
   * Dynamic deposit
   * Dynamic quorum
-* Burn deposit if no votes > threshold
+  * Burn deposit if no votes > threshold
 * Nakamoto bonus
 
 ### Design
