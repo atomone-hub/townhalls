@@ -87,4 +87,4 @@ The Nakamoto Coefficient is 5.
 * The first AiB AtomOne newsletter released last week. Sign up now for progress updates in the next [newsletter](https://atom.one/#newsletter)
 
 ### Keplr Integration
-* ATONE has officially been [integrated in Keplr wallet](https://x.com/keplrwallet/status/1922978693065974206)
+* ATONE has officially been [integrated in Keplr wallet](https://x.com/keplrwallet/status/1922978693065974206) along with the AtomOne testnet in the [Keplr chain registry](chains.keplr.app)
