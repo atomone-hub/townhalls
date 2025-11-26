@@ -49,6 +49,7 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
     * [Nakamoto Bonus](https://github.com/atomone-hub/cosmos-sdk/pull/10)
     * [Fixed commission rate](https://github.com/atomone-hub/cosmos-sdk/pull/19)
     * [Governors](https://github.com/atomone-hub/atomone/pull/73)
+    * [Core DAOs](https://github.com/atomone-hub/atomone/pull/188)
 
 ## Delegation Program Updates
 
