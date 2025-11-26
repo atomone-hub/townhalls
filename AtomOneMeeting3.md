@@ -24,7 +24,7 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
     * [Prop 9](https://gov.atom.one/proposals/9): Dynamic deposits will make it
       so proposal costs rise when governance activity spikes and fall when it
       cools. It will also burn proposals deposit if the percentage of no votes
-      exceeds the threshold.
+      exceeds the set threshold (currently 80%).
     * [Prop 11](https://gov.atom.one/proposals/11): Added dynamic quorums that
       adjust governance turnout requirements to real participation.
     * [Prop 15](https://gov.atom.one/proposals/15): Dynamic fees à la EIP1559
