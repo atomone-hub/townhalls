@@ -27,7 +27,8 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
       exceeds the set threshold (currently 80%).
     * [Prop 11](https://gov.atom.one/proposals/11): Added dynamic quorums that
       adjust governance turnout requirements to real participation.
-    * [Prop 15](https://gov.atom.one/proposals/15): Dynamic fees à la EIP1559
+    * [Prop 15](https://gov.atom.one/proposals/15): Dynamic fees à la EIP1559,
+       with dynamic learning rate (additive increase, multiplicative decrease)
     * [Prop 14](https://gov.atom.one/proposals/14): Converted most ATONE in the
       Treasury and Community Pool into PHOTON.
 
