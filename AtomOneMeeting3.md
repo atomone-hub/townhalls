@@ -14,7 +14,7 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
 
 ## Brief Summary of Discussion [goes here]
 
-## AtomOne chain updates
+## AtomOne Chain Updates
 
 * Activated PHOTON-only fees immediately, completing the fee side of the
   dual-token model before v3.  
@@ -31,7 +31,7 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
     * [Prop 14](https://gov.atom.one/proposals/14): Converted most ATONE in the
       Treasury and Community Pool into PHOTON.
 
-* V3 upgrade
+* V3 upgrade (Nov 18th)
     * [Prop 18](https://gov.atom.one/proposals/18)
 
 * Signaling proposal for v4 features:
@@ -41,6 +41,13 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
 * Proposals in voting period:
     * [Prop 19](https://gov.atom.one/proposals/19): Fix the governance proposal
       deposit floor values.
+
+* V4 features:
+    * [Use a fork of the Cosmos-SDK](github.com/atomone-hub/cosmos-sdk)
+    * [Upgrade to Cosmos-SDK v0.50](https://github.com/atomone-hub/atomone/pull/141)
+    * [Nakamoto Bonus](https://github.com/atomone-hub/cosmos-sdk/pull/10)
+    * [Fixed commission rate](https://github.com/atomone-hub/cosmos-sdk/pull/19)
+    * [Governors](https://github.com/atomone-hub/atomone/pull/73)
 
 ## Delegation Program Updates
 
