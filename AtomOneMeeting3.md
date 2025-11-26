@@ -20,7 +20,7 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
   dual-token model before v3.  
     * [Prop 10](https://gov.atom.one/proposals/10)
 
-* Signaling proposal for v3 features:
+* Signaling proposals for v3 features:
     * [Prop 9](https://gov.atom.one/proposals/9): Dynamic deposits will make it
       so proposal costs rise when governance activity spikes and fall when it
       cools. It will also burn proposals deposit if the percentage of no votes
