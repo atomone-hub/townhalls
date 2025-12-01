@@ -68,11 +68,19 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
 
 ## AtomOne Evangelists
 
-* \[link and form goes here\]
+* Feedback welcome on the [AtomOne Evangelists Program](https://docs.google.com/document/d/19JUazoOU7MQ04ZJBDybHpKHi914Us0XJdVEdc6CbU0U/edit?tab=t.0)
 
-## DAO working group, starting with Buidl DAO
+## Proof of Concept: AtomOne DAOs on Gno.land - an interchain initiative
 
-* \[Jordan? Michelle Jeronimo \]
+AtomOne governance is structured as a hierarchical tree of DAOs: core DAOs, and special purpose DAOs. 
+References: 
+- DAOs in general https://github.com/atomone-hub/genesis/blob/b84df30364674c3f68b4bc0a43d7ed977ae22226/CONSTITUTION.md#section-4a-common-dao-spec
+- BuidlDAO in particular https://github.com/atomone-hub/genesis/blob/b84df30364674c3f68b4bc0a43d7ed977ae22226/CONSTITUTION.md#section-6-special-purpose-daos
+
+Gno.land provides a general-purpose DAO framework aptly called CommonDAO, designed to support flexible and complex structures like the AtomOne DAO model. The idea is to implement AtomOne’s DAO system on the future Gno.land consumer chain using this framework. One technical consideration: cross-chain execution will ultimately require IBC, but a standalone proof of concept can serve as the initial phase.
+
+In this ecosystem DAO model, decisions are made by elected members of each DAO or subDAO groups. This means governance occurs through elected representatives, not through direct tokenholder voting as in standard AtomOne Hub governance proposals. Short demo time!
+
 
 ## Tooling and App updates
 
