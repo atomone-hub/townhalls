@@ -34,7 +34,14 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
 
 ## Dither Updates
 
-* \[What’s available and what we want to see plus demo\]
+* [Added](https://github.com/allinbits/dither.chat/pull/468) support for account @handles
+* [Proposed an implementation](https://github.com/allinbits/dither.chat/pull/494) to version prococol changes
+* [Migrated to Bun Toolkit](https://github.com/allinbits/dither.chat/pull/480) from of pnpm & Node
+* [Added](https://github.com/allinbits/dither.chat/pull/478) support for E2E tests w/ Keplr integration
+* [Improved](https://github.com/allinbits/dither.chat/pull/436) frontend wallet integration
+* UI improvements
+* Security changes (Content Security Policy, enforce AUTH & JWT secrets)
+* Quick demo of Dither account handle registration
 
 ## AtomOne Evangelists
 
