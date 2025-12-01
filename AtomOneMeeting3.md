@@ -74,10 +74,23 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
 
 * \[Jordan? Michelle Jeronimo \]
 
-## Staking and Governance app updates?
+## Tooling and App updates
 
-* x
+* Eclesia Indexer
+  * v2 released.
+  * Bug fixes
+  * Performance and stability improvements
+  * Boilerplating tool released (npx create-eclesia-indexer)
+  * Enhanced testing and benchmarking suite
 
+* Governance dApp 
+  * Updated for v2 indexer
+  * Bug fixes
+
+* Staking portal
+  * Bug fixes
+  * UI improvements: Big thanks to @sherzod for contributing
+     
 ## IBC Update?
 
 The first GNOT transfer from Gno to AtomOne was completed a couple of days ago
