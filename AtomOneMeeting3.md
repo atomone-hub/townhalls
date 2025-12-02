@@ -112,6 +112,6 @@ between two local networks.
 
 ## Open Discussion Time
 
-* ### Outreach
-
 * ### CMC Listing
+
+* ### DEX/CEX Outreach
