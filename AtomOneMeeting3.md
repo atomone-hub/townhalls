@@ -97,14 +97,12 @@ between two local networks.
 
 * Feedback welcome on the [AtomOne Evangelists Program](https://docs.google.com/document/d/19JUazoOU7MQ04ZJBDybHpKHi914Us0XJdVEdc6CbU0U/edit?tab=t.0) 
 
-## Open Discussion Time
-
-* ### Advertising
+## Advertising
 *   We have started initial adversting trial campaigns on Reddit and Brave.
 *   Shout out to the Cosmostation team running ads on Mintscan. 
 <img width="2430" height="562" alt="image" src="https://github.com/user-attachments/assets/ac006660-d5b8-4c86-a89b-a0d191ca2364" />
 
-* ### DAOs
+## DAOs
 - AtomOne Governance Hub, in the constitution it outlines the core daos and special purpose daos: Steering DAO and its subDAOs, Oversight DAOs and their subDAOs, Special Purpose DAOs and their subDAOs - starting with the BuidlDAO. What is the root DAO?
 <img width="906" height="894" alt="image" src="https://github.com/user-attachments/assets/8d0b2f31-142a-45b2-8c6a-11e1f48a45bc" />
 
@@ -112,9 +110,8 @@ between two local networks.
 - Could this all be built out on Gno.land with the CommonDAO package?
 - Once deployed on Gno.land and IBC is enabled, how would the treasury for BuidlDAO for example work, would it include GNOT, PHOTONS and ATONE?
 
+## Open Discussion Time
 
 * ### Outreach
 
 * ### CMC Listing
-
-* ### Upcoming CEX Listing?
