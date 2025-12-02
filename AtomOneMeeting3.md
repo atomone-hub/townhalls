@@ -100,7 +100,11 @@ between two local networks.
 ## Open Discussion Time
 
 * ### Advertising
-*   We have started initial adversting trial campaigns on Reddit and Brave. Shout out to the Cosmostation team running ads on Mintscan. 
+*   We have started initial adversting trial campaigns on Reddit and Brave.
+*   Reddit results for one month: 844 website visits
+*   Brave results for two weeks: 700 website visits
+*   To better understand how people engage after coming to the website, last week we added advanced conversion tracking for key assets. 
+*   Shout out to the Cosmostation team running ads on Mintscan. 
 <img width="2430" height="562" alt="image" src="https://github.com/user-attachments/assets/ac006660-d5b8-4c86-a89b-a0d191ca2364" />
 
 * ### DAOs
