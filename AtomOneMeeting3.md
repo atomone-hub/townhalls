@@ -51,25 +51,14 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
     * [Governors](https://github.com/atomone-hub/atomone/pull/73)
     * [Core DAOs](https://github.com/atomone-hub/atomone/pull/188)
 
-## Delegation Program Updates
+## IBC Update
 
-* \[blog link goes here\]
+The first GNOT transfer from Gno to AtomOne was completed a couple of days ago
+between two local networks.
 
-## Dither Updates
-
-* [Added](https://github.com/allinbits/dither.chat/pull/468) support for account @handles
-* [Proposed an implementation](https://github.com/allinbits/dither.chat/pull/494) to version prococol changes
-* [Migrated to Bun Toolkit](https://github.com/allinbits/dither.chat/pull/480) from of pnpm & Node
-* [Added](https://github.com/allinbits/dither.chat/pull/478) support for E2E tests w/ Keplr integration
-* [Improved](https://github.com/allinbits/dither.chat/pull/436) frontend wallet integration
-* UI improvements
-* Security changes (Content Security Policy, enforce AUTH & JWT secrets)
-* Quick demo of Dither account handle registration
-
-## AtomOne Evangelists
-
-* Feedback welcome on the [AtomOne Evangelists Program](https://docs.google.com/document/d/19JUazoOU7MQ04ZJBDybHpKHi914Us0XJdVEdc6CbU0U/edit?tab=t.0)
-
+* Tendermint light client smart contract moved [here](https://github.com/allinbits/gno-realms)
+* Tendermint2 light client [PR](https://github.com/atomone-hub/atomone/pull/232)
+* TS-relayer compatible with IBCv2 [ibc-v2-ts-relayer](https://github.com/allinbits/ibc-v2-ts-relayer)
 
 ## Tooling and App updates
 
@@ -87,15 +76,25 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
 * Staking portal
   * Bug fixes
   * UI improvements: Big thanks to @sherzod for contributing
-     
-## IBC Update?
 
-The first GNOT transfer from Gno to AtomOne was completed a couple of days ago
-between two local networks.
+ ## Delegation Program Updates
 
-* Tendermint light client smart contract moved [here](https://github.com/allinbits/gno-realms)
-* Tendermint2 light client [PR](https://github.com/atomone-hub/atomone/pull/232)
-* TS-relayer compatible with IBCv2 [ibc-v2-ts-relayer](https://github.com/allinbits/ibc-v2-ts-relayer)
+* \[blog link goes here\]   
+
+## Dither Updates
+
+* [Added](https://github.com/allinbits/dither.chat/pull/468) support for account @handles
+* [Proposed an implementation](https://github.com/allinbits/dither.chat/pull/494) to version prococol changes
+* [Migrated to Bun Toolkit](https://github.com/allinbits/dither.chat/pull/480) from of pnpm & Node
+* [Added](https://github.com/allinbits/dither.chat/pull/478) support for E2E tests w/ Keplr integration
+* [Improved](https://github.com/allinbits/dither.chat/pull/436) frontend wallet integration
+* UI improvements
+* Security changes (Content Security Policy, enforce AUTH & JWT secrets)
+* Quick demo of Dither account handle registration
+
+## AtomOne Evangelists
+
+* Feedback welcome on the [AtomOne Evangelists Program](https://docs.google.com/document/d/19JUazoOU7MQ04ZJBDybHpKHi914Us0XJdVEdc6CbU0U/edit?tab=t.0) 
 
 ## Open Discussion Time
 
