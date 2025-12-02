@@ -70,17 +70,6 @@ Sign up for newsletter on [Atom.One](https://atom.one/)
 
 * Feedback welcome on the [AtomOne Evangelists Program](https://docs.google.com/document/d/19JUazoOU7MQ04ZJBDybHpKHi914Us0XJdVEdc6CbU0U/edit?tab=t.0)
 
-## Proof of Concept: AtomOne DAOs on Gno.land - an interchain initiative
-
-AtomOne governance is structured as a hierarchical tree of DAOs: core DAOs, and special purpose DAOs. 
-References: 
-- DAOs in general https://github.com/atomone-hub/genesis/blob/b84df30364674c3f68b4bc0a43d7ed977ae22226/CONSTITUTION.md#section-4a-common-dao-spec
-- BuidlDAO in particular https://github.com/atomone-hub/genesis/blob/b84df30364674c3f68b4bc0a43d7ed977ae22226/CONSTITUTION.md#section-6-special-purpose-daos
-
-Gno.land provides a general-purpose DAO framework aptly called CommonDAO, designed to support flexible and complex structures like the AtomOne DAO model. The idea is to implement AtomOne’s DAO system on the future Gno.land consumer chain using this framework. One technical consideration: cross-chain execution will ultimately require IBC, but a standalone proof of concept can serve as the initial phase.
-
-In this ecosystem DAO model, decisions are made by elected members of each DAO or subDAO groups. This means governance occurs through elected representatives, not through direct tokenholder voting as in standard AtomOne Hub governance proposals. Short demo time!
-
 
 ## Tooling and App updates
 
@@ -111,6 +100,24 @@ between two local networks.
 ## Open Discussion Time
 
 * ### Advertising
+*   We have started initial adversting trial campaigns on Reddit and Brave. Shout out to the Cosmostation team running ads on Mintscan. 
+<img width="2430" height="562" alt="image" src="https://github.com/user-attachments/assets/ac006660-d5b8-4c86-a89b-a0d191ca2364" />
+
+* ### DAOs
+*   AtomOne governance is structured as a hierarchical tree of DAOs: core DAOs, and special purpose DAOs. 
+References: 
+- DAOs in general https://github.com/atomone-hub/genesis/blob/b84df30364674c3f68b4bc0a43d7ed977ae22226/CONSTITUTION.md#section-4a-common-dao-spec
+- BuidlDAO in particular https://github.com/atomone-hub/genesis/blob/b84df30364674c3f68b4bc0a43d7ed977ae22226/CONSTITUTION.md#section-6-special-purpose-daos
+
+Gno.land provides a general-purpose DAO framework aptly called CommonDAO, designed to support flexible and complex structures like the AtomOne DAO model. The idea is to implement AtomOne’s DAO system on the future Gno.land consumer chain using this framework. One technical consideration: cross-chain execution will ultimately require IBC, but a standalone proof of concept can serve as the initial phase. This could be the first cross-chain implementation POC. 
+
+- AtomOne Governance Hub, in the constitution it outlines the core daos and special purpose daos: Steering DAO and its subDAOs, Oversight DAOs and their subDAOs, Special Purpose DAOs and their subDAOs - starting with the BuidlDAO. What is the root DAO?
+<img width="906" height="894" alt="image" src="https://github.com/user-attachments/assets/8d0b2f31-142a-45b2-8c6a-11e1f48a45bc" />
+
+
+- Could this all be built out on Gno.land with the CommonDAO package?
+- Once deployed on Gno.land and IBC is enabled, how would the treasury for BuidlDAO for example work, would it include GNOT, PHOTONS and ATONE?
+
 
 * ### Outreach
 
