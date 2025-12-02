@@ -8,9 +8,9 @@ Link to the full message log \[goes here\]
 
 ## Main Action Items:
 
-Join AtomOne Rapture Club, and all sub groups that interest you  
-Vote on existing chain proposal: [Prop 19](https://gov.atom.one/proposals/19)
-Sign up for newsletter on [Atom.One](https://atom.one/)
+* Join [AtomOne Rapture Club](https://t.me/youwillatone)
+* Vote on existing chain proposal: [Prop 19](https://gov.atom.one/proposals/19)
+* Sign up for newsletter on [Atom.One](https://atom.one/)
 
 ## Brief Summary of Discussion [goes here]
 
