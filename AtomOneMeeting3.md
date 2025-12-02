@@ -77,9 +77,10 @@ between two local networks.
   * Bug fixes
   * UI improvements: Big thanks to @sherzod for contributing
 
- ## Delegation Program Updates
-
-* \[blog link goes here\]   
+## Delegation Program Updates
+* Delegations were made
+* Blog content to come
+* UI improvements for delegation spread in progress
 
 ## Dither Updates
 
