@@ -3,7 +3,9 @@
 ## Date: December 2nd, 2025, 10am PST
 
 Link to the [full recording](https://drive.google.com/file/d/10S9F6BZ-1PHZK9TweA5T1H4tS2eQt4XB/view?usp=drive_web)  
+
 Link to the [full transcript](https://docs.google.com/document/d/1n5gld5i3ENv3ilypt4pyTWNS8DNXcDks01o9s8wFk8c/edit?usp=drive_web)
+
 Link to the [full message log](https://drive.google.com/file/d/1dP0WTuforzthcAqoEbtG_fnp7rZ6fd9W/view?usp=drive_web)
 
 ## Main Action Items:
